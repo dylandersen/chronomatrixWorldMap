@@ -1,0 +1,5 @@
+{
+  "name": "ChronoMatrix World Map",
+  "description": "A stylish dot-matrix world map with interactive vertical time zone selection and UTC legend.",
+  "requestFramePermissions": []
+}
